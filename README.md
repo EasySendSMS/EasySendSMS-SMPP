@@ -1,6 +1,6 @@
 # EasySendSMS SMPP
 
-## Carrier Grade SMS Messaging
+### Carrier Grade SMS Messaging
 
 For our customers that require low level control of [SMS messaging](https://www.easysendsms.com/bulksms) and lowest possible latency we offer our Enhanced SMPP service
 
