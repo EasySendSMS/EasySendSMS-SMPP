@@ -10,6 +10,7 @@ The Short Message Peer-to-Peer (SMPP) is a protocol used by the telecommunicatio
 
 The protocol is a level-7 TCP/IP protocol, which allows fast delivery of SMS messages. The most commonly used versions of SMPP are v3.3, the most widely supported standard, and v3.4, which adds transceiver support (single connections that can send and receive messages). Data exchange may be synchronous, where each peer must wait for a response for each PDU being sent, and asynchronous, where multiple requests can be issued in one go and acknowledged in a skew order by the other peer.
 
+## NOTE: If your SMPP system supports only passwords up to 8 characters (SMPP v3.4 standard), contact our Support team to adjust the password strength settings on your account.
 
 ## We support throughput up to 500 SMS/Sec, for that you can contact our [support](https://www.easysendsms.com/contact-us) for further details.
 
